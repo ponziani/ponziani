@@ -1,19 +1,19 @@
 Hi there, I'm Steven Huypens! 👋
 I'm a software engineer with a passion for creating clean, efficient code and building innovative solutions. I have experience working with a variety of programming languages, including Php, Java, and C++, and I'm always eager to learn new technologies.
 
-🔭 Current Projects
+⚽ SoccerProject
+My biggest project is [SoccerProject](http://www.soccerproject.com). If you're a football fan too, be sure to check it out!
 
-Project A: A web application that uses machine learning to predict stock prices.
-Project B: An iOS app for tracking daily expenses and creating budgets.
-Project C: A command-line tool for automating repetitive tasks.
+SoccerProject is an online football management game that allows players to manage their own virtual football team. Players can compete against other teams, buy and sell players, set tactics and formations, and build their team's stadium. The game offers a realistic simulation of football management, and is popular among football fans worldwide.
 
 🌱 Skills
-Programming languages: Java, Php
-Technologies:  Apach Karaf, Spring, OSGi, JPA, Maven, Docker, TestContainers,..
-Databases: MySQL, PostgreSQL, Oracle
+Programming languages: Java, Php,...
+Technologies:  Apach Karaf, Spring, OSGi, JPA, Maven, Docker, TestContainers,...
+Databases: MySQL, PostgreSQL, Oracle,...
 
 📫 How to reach me
 LinkedIn: https://www.linkedin.com/in/stevenhuypens
+Twitter: @sjarel
 
 🤝 Open to collaboration
 I'm always open to working with other developers on interesting projects. If you have an idea or a project that you think I'd be a good fit for, feel free to reach out to me.
