@@ -4,7 +4,7 @@ I'm a software engineer with a passion for creating clean, efficient code and bu
 
 ⚽ SoccerProject
 
-My biggest achievement is [SoccerProject](http://www.soccerproject.com). If you're a football fan too, be sure to check it out!
+I've learnt the most implementing [SoccerProject](http://www.soccerproject.com). If you're a football fan too, be sure to check it out!
 
 SoccerProject is an online football management game that allows players to manage their own virtual football team. Players can compete against other teams, buy and sell players, set tactics and formations, and build their team's stadium. The game offers a realistic simulation of football management, and is popular among football fans worldwide.
 
